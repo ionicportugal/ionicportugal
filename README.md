@@ -17,7 +17,7 @@ Please visit [Centrarium repro](https://github.com/bencentra/centrarium) for mor
 
 ## License
 
-MIT. See [LICENSE.MD]().
+MIT. See [LICENSE](https://github.com/ionicportugal/ionicportugal.github.io/blob/master/LICENSE).
 
 [bourbon]: http://bourbon.io/
 [neat]: http://neat.bourbon.io/
