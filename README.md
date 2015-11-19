@@ -1,6 +1,8 @@
-# Centrarium
+# ionicportugal
 
-A simple yet classy theme for your Jekyll website or blog. Customizable to fit your style or brand.
+Site da comunidade portugueas da ionicfrmaework
+
+Baes on [Centrarium](https://github.com/bencentra/centrarium), a simple yet classy theme for your Jekyll.
 
 Built with these awesome libraries: 
 * [Bourbon][bourbon] 
@@ -182,3 +184,4 @@ MIT. See [LICENSE.MD](https://github.com/bencentra/centrarium/blob/master/LICENS
 [ga]: http://www.google.com/analytics/
 [archives]: https://github.com/jekyll/jekyll-archives
 [sitemap]: https://github.com/jekyll/jekyll-sitemap
+
